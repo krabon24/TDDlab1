@@ -1,0 +1,18 @@
+{
+  "name": "TDDlab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "changehandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "karma": "^5.0.9",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^3.3.1"
+  }
+}
